@@ -22,16 +22,6 @@ img{
     width: 50px;
     margin-left: auto;
     margin-right: auto;
-    @keyframes slidein {
-        from{
-            transform: translateX(0%);
-        }
-        to {
-            transform: translateX(100%);
-        }
-        
-    }
-    animation: slidein 2s ease-in-out 1s normal  none;
 }
 
 ul{
